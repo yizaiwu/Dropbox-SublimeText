@@ -1,0 +1,826 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3114,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 486.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"new",
+						"newScriptElement"
+					],
+					[
+						"sales",
+						"salesDiv"
+					],
+					[
+						"watch",
+						"watchId"
+					],
+					[
+						"clear",
+						"clearWatch"
+					],
+					[
+						"dis",
+						"displayError"
+					],
+					[
+						"google",
+						"googleLatAndLong"
+					],
+					[
+						"infoW",
+						"infoWindowOptions"
+					],
+					[
+						"startL",
+						"startLatRads"
+					],
+					[
+						"la",
+						"latitude"
+					],
+					[
+						"error",
+						"errorMessage"
+					],
+					[
+						"inner",
+						"innerHTML"
+					],
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"err",
+						"errorMessage"
+					],
+					[
+						"prin",
+						"println()	func"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/User/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/JavaC.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/JavaC.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/JavaC_CHT.sublime-build",
+							""
+						],
+						[
+							"Packages/User/JavaC_CHT.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/JavaC_CHT.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 446.0,
+				"last_filter": "Package Control: a",
+				"selected_items":
+				[
+					[
+						"Package Control: a",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 696.0
+			},
+			"console":
+			{
+				"height": 234.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"python",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter6/mightygumball.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter6/JSONP/mightygumball.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter6/mightygumball.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter6/mightygumball_ReadyBake.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter6/sales.json",
+				"/C/DevPHPEnv/www/gumball/mightygumball.js",
+				"/C/DevPHPEnv/www/gumball/mightygumball.css",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter4/cinema_json.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter6/mightygumball.css",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter5_temp/myLoc.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter5_temp/myLoc.css",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter5_temp/myLoc.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter5/myLoc.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter5/myLoc.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter4/cinema.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter2/movie.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter3/playlist.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter4/songs.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter4/functionSharpen.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter3/playlist.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter3/playlist_store.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter2/phraseomatic.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter2/planet.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter1/99energy.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter1/soundslike.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter1/headfirstlounge5.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter1/headfirstlounge.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/chapter1/soundslike.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/chapter1/99energy.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/chapter1/headfirstlounge.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/chapter1/headfirstlounge5.html",
+				"/C/Users/092271/Documents/Head First JavaScript Programming/HeadFirstJavaScript.html",
+				"/C/Users/092271/Documents/Head First JavaScript Programming/chapter1/code.js",
+				"/C/Users/092271/Desktop/Tools/Brackets 1.6 Portable/BracketsPortable/App/Brackets/www/index.html",
+				"/C/Users/092271/Documents/Head First JavaScript/chapter02/donuts/donuts4.html",
+				"/C/Users/092271/Documents/Head First JavaScript/chapter02/donuts/donuts3.html",
+				"/C/Users/092271/Documents/Head First JavaScript/chapter02/donuts/donuts2.html",
+				"/C/Users/092271/Documents/Head First JavaScript/chapter02/donuts/donuts.php",
+				"/C/Users/092271/Documents/Head First JavaScript/chapter02/donuts/donuts.css",
+				"/C/Users/092271/Documents/Head First JavaScript/chapter02/donuts/donuts1.html",
+				"/C/Users/092271/Documents/Head First JavaScript/chapter01/irock/irock3.html",
+				"/C/Users/092271/Documents/Head First Java/chap08/MakeCanine.java",
+				"/C/Users/092271/Documents/Head First Java/chap07/TestBoat.java",
+				"/C/Users/092271/Documents/Head First Java/chap06/GameHelper.java",
+				"/C/Users/092271/Documents/Head First Java/chap06/DotComBust.java",
+				"/C/Users/092271/Documents/Head First Java/chap06/DotCom.java",
+				"/C/Users/092271/Documents/Head First Java/chap06/GameHelper_old.java",
+				"/C/Users/092271/Documents/Head First Java/chap06/DotCom_old.java",
+				"/C/Users/092271/Documents/Head First Java/chap06/GameHelper_new.java",
+				"/C/Users/092271/Documents/Head First Java/chap05/SimpleDotComTester.java",
+				"/C/Users/092271/Documents/Head First Java/chap05/SimpleDotCom.java",
+				"/C/Users/092271/Documents/Head First Java/chap05/GameHelper.java",
+				"/C/Users/092271/Documents/Head First Java/chap05/Game.java",
+				"/C/Users/092271/Documents/Head First Java/chap04/GoodDogTestDrive.java",
+				"/C/Users/092271/Documents/Head First Java/chap04/temp/DogTestDrive.java",
+				"/C/Users/092271/Documents/Head First Java/chap04/Foo.java",
+				"/C/Users/092271/Documents/Head First Java/chap04/PoorDogTestDrive.java",
+				"/C/Users/092271/Documents/Head First Java/helloSublime.java",
+				"/C/Users/092271/Documents/Head First Java/chap04/DogTestDrive.java",
+				"/C/Users/092271/Documents/Head First Java/chap03/Dog.java",
+				"/C/Users/092271/Documents/Head First Java/HelloWorld.java",
+				"/C/Users/092271/Documents/Head First Java/HelloWorldCht.java",
+				"/C/Users/092271/Documents/Head First Java/chap02/GameLauncher.java",
+				"/C/Users/092271/Desktop/Tools/Sublime Text/Sublime Text Build 3083/Data/Packages/User/JavaC_CHT.sublime-build",
+				"/C/Users/092271/Desktop/Tools/Sublime Text/Sublime Text Build 3083/Data/Packages/User/Java.sublime-build",
+				"/C/Users/092271/Desktop/Tools/Sublime Text/Sublime Text Build 3083/Data/Packages/User/JavaC.sublime-build",
+				"/C/Users/092271/Documents/Head First Java/chap02/Player.java",
+				"/C/Users/092271/Documents/Head First Java/chap02/GuessGame.java",
+				"/C/Program Files/Java/jdk1.8.0_66/bin/runJava.bat",
+				"/c/Program Files/Java/jdk1.8.0_66/bin/runJava.bat",
+				"/c/Program Files/Gow/etc/wgetrc",
+				"/C/Users/092271/Documents/Head First Java/chap01/PhraseOMatic.java",
+				"/C/Users/092271/Desktop/Tools/Sublime Text/Sublime Text Build 3083/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/092271/Desktop/Tools/Sublime Text/Sublime Text Build 3083/Data/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"userGuess",
+					"locs",
+					"stringGuess",
+					"font"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 530.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/JavaC_CHT.sublime-build",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 225.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1515.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ge",
+						"generation"
+					],
+					[
+						"post",
+						"postMessage"
+					],
+					[
+						"sticky",
+						"stickyObj"
+					],
+					[
+						"op",
+						"option	Tag"
+					],
+					[
+						"stickies",
+						"stickiesArray"
+					],
+					[
+						"fill",
+						"fillText"
+					],
+					[
+						"text",
+						"textAlign"
+					],
+					[
+						"tweets",
+						"tweetsSelection"
+					],
+					[
+						"sele",
+						"selectedIndex"
+					],
+					[
+						"select",
+						"selectObj"
+					],
+					[
+						"last",
+						"lastReportTime"
+					],
+					[
+						"new",
+						"newScriptElement"
+					],
+					[
+						"sales",
+						"salesDiv"
+					],
+					[
+						"watch",
+						"watchId"
+					],
+					[
+						"clear",
+						"clearWatch"
+					],
+					[
+						"dis",
+						"displayError"
+					],
+					[
+						"google",
+						"googleLatAndLong"
+					],
+					[
+						"infoW",
+						"infoWindowOptions"
+					],
+					[
+						"startL",
+						"startLatRads"
+					],
+					[
+						"la",
+						"latitude"
+					],
+					[
+						"error",
+						"errorMessage"
+					],
+					[
+						"inner",
+						"innerHTML"
+					],
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"err",
+						"errorMessage"
+					],
+					[
+						"prin",
+						"println()	func"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "Packages/User/JavaC_CHT.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/User/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/JavaC.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/JavaC.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/JavaC_CHT.sublime-build",
+							""
+						],
+						[
+							"Packages/User/JavaC_CHT.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/JavaC_CHT.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 397.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: list",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: a",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 696.0
+			},
+			"console":
+			{
+				"height": 289.0,
+				"history":
+				[
+					"jshint",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"python",
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/092271/SublimeTextPortable/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/092271/SublimeTextPortable/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/092271/Desktop/Tools/Sublime Text/Sublime Text Build 3083/Data/KEEPME",
+				"/C/Users/092271/stepup-tutorial/tutorial5/sample.txt",
+				"/C/Users/092271/stepup-tutorial/tutorial4/sample.txt",
+				"/C/Users/092271/gVimPortable/Data/settings/_vimrc",
+				"/C/Users/092271/Vim/_vimrc",
+				"/C/Users/092271/gVimPortable/Data/settings/vimfiles/autoload/pathogen.vim",
+				"/C/Users/092271/stepup-tutorial/tutorial3/sample.txt",
+				"/C/Users/092271/Vim/vim74/vimrc_example.vim",
+				"/C/Program Files/PortableGit_2.5.2/cmd/curl.cmd",
+				"/C/Users/092271/stepup-tutorial/tutorial2/sample.txt",
+				"/C/Users/092271/stepup-tutorial/tutorial1/.git/COMMIT_EDITMSG",
+				"/C/Users/092271/stepup-tutorial/tutorial1/sample.txt",
+				"/C/Users/092271/tutorial_tag/myfile.txt",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter10_temp/Mandel/mandel.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter10/Mandel/mandel.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter10/Mandel/fractal.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter10_temp/Mandel/fractal.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter10_temp/Mandel/worker.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter10_temp/Mandel/mandellib.js",
+				"/C/Users/092271/tutorial_branch/myfile.txt",
+				"/C/Users/092271/tutorial/sample.txt",
+				"/C/Users/092271/.gitconfig",
+				"/C/Users/092271/tutorial2/sample.txt",
+				"/C/Users/092271/tutorial2/sample",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter10_temp/Mandel/workerlib.js",
+				"/C/Users/092271/Desktop/Tools/Sublime Text/Sublime Text Build 3083/Data/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+				"/C/Users/092271/Documents/Node.js_Learn_JavaScript/hello.js",
+				"/C/Users/092271/Desktop/Tools/Sublime Text/Sublime Text Build 3083/Data/Packages/JSHint Gutter/JSHint.sublime-settings",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter10_temp/temp/worker.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter10_temp/temp/worker_error.js",
+				"/C/Users/092271/Desktop/Tools/Sublime Text/Sublime Text Build 3083/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/092271/Desktop/Tools/Sublime Text/Sublime Text Build 3083/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/092271/Desktop/Tools/Sublime Text/Sublime Text Build 3083/Data/Packages/JSHint Gutter/.jshintrc",
+				"/C/Users/092271/Desktop/Tools/Sublime Text/Sublime Text Build 3083/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/092271/Desktop/Tools/Sublime Text/Sublime Text Build 3083/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter10_temp/pingpong.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter10_temp/manager.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter10_temp/pingpong-2.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter10_temp/worker_error.js",
+				"/C/Users/092271/Desktop/Tools/Sublime Text/Sublime Text Build 3083/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Users/092271/Desktop/Tools/Neard-Portable WAMP Software Stack/neard-1.0.20/neard/neard.conf",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter10_temp/worker.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter10/manager.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter10/pingpong.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter10/worker.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9_temp-2/bomb.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9/bomb.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9_temp-2/notetoself.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9_temp-2/notetoself.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9/notetoself3.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9/notetoself.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9/notetoself4.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9_temp-2/maintenance.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9_temp-2/maintenance.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9_temp-2/notetoself.css",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9_temp/notetoself3.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9_temp/notetoself3.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9/notetoself3.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9/notetoself2.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9_temp/notetoself.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9_temp/notetoself_temp.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9_temp/notetoself2.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9_temp/maintenance.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9_temp/maintenance.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9_temp/notetoself.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter9/notetoself4.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter8_temp/videobooth.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter8_temp/videobooth.css",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter8_temp/videobooth.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter8_temp/webvilletv.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter8_temp/webvilletv.html",
+				"/C/Users/092271/Desktop/Tools/Sublime Text/Sublime Text Build 3083/Data/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Users/092271/Desktop/Tools/Sublime Text/Sublime Text Build 3083/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/C/Users/092271/Desktop/Tools/Sublime Text/Sublime Text Build 3083/Data/Packages/User/JavaScript.sublime-settings",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter8_temp/webvilletv.css",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter8/webvilletv.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter7/tweetshirt.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter7_temp/tweetshirt.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter7/index.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter7_temp/index.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter7/triangle.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter7_temp/TweetShirt.html",
+				"/C/Users/092271/Downloads/土銀新竹EasyUse客戶資料文字檔匯入問題/REM0120_豐云_電金部修改.txt",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter7/smiley.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter6/mightygumball.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter5_temp/myLoc.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter6/mightygumball.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter6/JSONP/mightygumball.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter6/mightygumball_ReadyBake.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter6/sales.json",
+				"/C/DevPHPEnv/www/gumball/mightygumball.js",
+				"/C/DevPHPEnv/www/gumball/mightygumball.css",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter4/cinema_json.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter6/mightygumball.css",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter5_temp/myLoc.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter5_temp/myLoc.css",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter5/myLoc.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter5/myLoc.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter4/cinema.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter2/movie.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter3/playlist.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter4/songs.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter4/functionSharpen.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter3/playlist.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter3/playlist_store.js",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter2/phraseomatic.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter2/planet.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter1/99energy.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter1/soundslike.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter1/headfirstlounge5.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/hfhtml5_noVideo/chapter1/headfirstlounge.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/chapter1/soundslike.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/chapter1/99energy.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/chapter1/headfirstlounge.html",
+				"/C/Users/092271/Documents/Head First HTML5 Programming/chapter1/headfirstlounge5.html",
+				"/C/Users/092271/Documents/Head First JavaScript Programming/HeadFirstJavaScript.html",
+				"/C/Users/092271/Documents/Head First JavaScript Programming/chapter1/code.js",
+				"/C/Users/092271/Desktop/Tools/Brackets 1.6 Portable/BracketsPortable/App/Brackets/www/index.html",
+				"/C/Users/092271/Documents/Head First JavaScript/chapter02/donuts/donuts4.html",
+				"/C/Users/092271/Documents/Head First JavaScript/chapter02/donuts/donuts3.html",
+				"/C/Users/092271/Documents/Head First JavaScript/chapter02/donuts/donuts2.html",
+				"/C/Users/092271/Documents/Head First JavaScript/chapter02/donuts/donuts.php",
+				"/C/Users/092271/Documents/Head First JavaScript/chapter02/donuts/donuts.css",
+				"/C/Users/092271/Documents/Head First JavaScript/chapter02/donuts/donuts1.html",
+				"/C/Users/092271/Documents/Head First JavaScript/chapter01/irock/irock3.html",
+				"/C/Users/092271/Documents/Head First Java/chap08/MakeCanine.java"
+			],
+			"find":
+			{
+				"height": 50.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"path",
+					"lint",
+					"    ",
+					"lint",
+					"userGuess",
+					"locs",
+					"stringGuess",
+					"font"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 530.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/JavaC_CHT.sublime-build",
+			"position": "0,0,1,-1,-1,-1,-1,988,856,357,1921",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 225.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

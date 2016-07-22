@@ -1,0 +1,17 @@
+{
+    // 命令和参数，未指定路径则在PATH环境变量中找
+    "cmd": ["javac","-encoding","UTF-8","-d",".","$file"],
+
+    "shell_cmd": "runJava.bat \"$file\"",
+
+    // 可选。获取cmd的错误输出
+    "file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+
+    // 可选。`工具`菜单中`编译`为`自动`时生效
+    "selector": "source.java",
+
+    // 可选。输出"cmd"的编码。必须是合法的Python编码，缺省为"UTF-8"
+    //"encoding": "GBK"  设置文件编码为GBK
+    //"encoding": "UTF-8"   //设置文件编码为UTF-8
+    "encoding": "BIG5"
+}

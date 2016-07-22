@@ -1,0 +1,27 @@
+{
+"cmd": ["javac","-encoding","UTF-8","-d",".","$file"],
+"file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+"selector": "source.java",
+//"encoding":"GBK",
+//"encoding": "BIG5",
+"encoding": "UTF-8",
+//執行完上面的命令就結束
+
+// 下面的命令需要按Ctrl+Shift+b來運行
+"variants":
+    [
+        {
+            "name": "Run",
+            "shell": true,
+            "cmd" :  ["start","cmd","/c", "java ${file_base_name} &echo. & pause"],
+            // /c是執行完命令後關閉cmd窗口,
+            // /k是執行完命令後不關閉cmd窗口。
+            // echo. 相當於輸入一個回車
+            // pause命令使cmd窗口按任意鍵後才關閉
+            "working_dir": "${file_path}",
+            //"encoding":"GBK"
+            //"encoding": "BIG5"
+            "encoding": "UTF-8"
+        }
+    ]
+}
